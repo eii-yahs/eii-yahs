@@ -1,5 +1,5 @@
 # 💫 Sobre mim (About me):
-Eu estou no terceiro semestre de Engenharia de Software na UnB, Universidade de Brasília. <br> Eu estou constantemente buscando aprender linguagens de programação de como melhorar as minhas habilidades.<br><br>
+Eu estou no terceiro semestre de Engenharia de Software na UnB, Universidade de Brasília. <br> Eu estou constantemente buscando aprender as linguagens de programação e como melhorar as minhas habilidades.<br><br>
 I'm in my third semester of Software Engineering at UnB, University of Brasília.<br>I’m currently learning about languages and how to improve my skills.<br><br>
 
 ## 🌐 Redes sociais:
