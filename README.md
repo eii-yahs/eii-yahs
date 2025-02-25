@@ -11,7 +11,6 @@ I'm in my third semester of Software Engineering at UnB, University of Brasília
 <br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eii-yahs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eii-yahs&theme=dark&hide_border=false)<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eii-yahs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br><br>
+![](https://github-readme-stats.vercel.app/api?username=eii-yahs&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eii-yahs&theme=tokyonight&hide_border=false)<br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eii-yahs&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
